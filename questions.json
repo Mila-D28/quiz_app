@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question": "Quel est le résultat de 2 + 2 en Python ?",
+      "options": ["3", "4", "5", "22"],
+      "answer": "4"
+    },
+    {
+      "question": "Quelle bibliothèque est utilisée pour créer des interfaces graphiques en Python ?",
+      "options": ["tkinter", "numpy", "pandas", "matplotlib"],
+      "answer": "tkinter"
+    },
+    {
+      "question": "Comment déclare-t-on une liste vide en Python ?",
+      "options": ["list = {}", "list = ()", "list = []", "list = <>"],
+      "answer": "list = []"
+    },
+    {
+      "question": "Quelle méthode permet de lire un fichier JSON en Python ?",
+      "options": ["json.load()", "json.read()", "json.open()", "json.get()"],
+      "answer": "json.load()"
+    },
+    {
+      "question": "Quel est le type de données pour stocker des paires clé-valeur ?",
+      "options": ["Liste", "Tuple", "Dictionnaire", "Set"],
+      "answer": "Dictionnaire"
+    },
+    {
+      "question": "Comment affiche-t-on 'Bonjour' en Python ?",
+      "options": ["echo('Bonjour')", "print('Bonjour')", "console.log('Bonjour')", "display('Bonjour')"],
+      "answer": "print('Bonjour')"
+    },
+    {
+      "question": "Quelle est l'extension des fichiers Python ?",
+      "options": [".python", ".pt", ".py", ".pyt"],
+      "answer": ".py"
+    },
+    {
+      "question": "Quel mot-clé est utilisé pour créer une fonction en Python ?",
+      "options": ["function", "def", "func", "define"],
+      "answer": "def"
+    },
+    {
+      "question": "Comment commence un commentaire en Python ?",
+      "options": ["//", "/*", "#", "--"],
+      "answer": "#"
+    },
+    {
+      "question": "Quelle bibliothèque est utilisée pour manipuler des fichiers JSON ?",
+      "options": ["json", "jsonlib", "jparser", "jsonpy"],
+      "answer": "json"
+    }
+  ]
+}
